@@ -1,0 +1,3 @@
+This will display a histogram showing the distribution of ages in our data. 
+The bins parameter specifies the bins to be used for the histogram (from 20 to 65,
+with a step of 5). The edgecolor parameter specifies the color of the edges of the bins.
